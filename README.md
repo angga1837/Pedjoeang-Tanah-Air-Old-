@@ -12,7 +12,7 @@ File utama game ada di dalam `package.nw` dan entry point-nya adalah `index.html
 
 ## Cara Menjalankan di Windows
 
-1. Download atau clone repo ini ke komputer kamu.
+1. Download release repo ini ke komputer kamu.
 2. Pastikan semua file hasil extract tetap berada dalam satu folder yang sama.
 3. Jalankan `nw.exe` dengan cara double-click, atau buka terminal di folder itu lalu jalankan:
 
